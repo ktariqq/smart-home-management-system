@@ -79,7 +79,7 @@ Devices are grouped into rooms for structured control and scalability.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/smart-home-system.git
+git clone https://github.com/ktariqq/smart-home-management-system.git
 ```
 2. Open the project in IntelliJ IDEA or Eclipse
 3. Configure JavaFX SDK in your IDE
